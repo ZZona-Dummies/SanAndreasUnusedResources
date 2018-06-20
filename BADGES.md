@@ -26,3 +26,7 @@
 *Coming soon:* Release downloads
 
 **Thanks to:** [shields.io](https://shields.io)
+
+## Some goals
+
+Here are [some goals](https://github.com/z3nth10n/SanAndreasUnity/blob/master/Infos/GOALS.md) we would like to meet.
