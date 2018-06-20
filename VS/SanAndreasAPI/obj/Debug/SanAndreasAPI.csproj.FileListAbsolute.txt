@@ -1,0 +1,8 @@
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasAPI\obj\Debug\SanAndreasAPI.csproj.CoreCompileInputs.cache
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\Plugins\SanAndreasAPI.dll
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\Plugins\SanAndreasAPI.pdb
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasAPI\obj\Debug\SanAndreasAPI.dll
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasAPI\obj\Debug\SanAndreasAPI.pdb
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasAPI\obj\Debug\SanAndreasAPI.csprojResolveAssemblyReference.cache
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\Plugins\SAPI\bin\Debug\SanAndreasAPI.dll
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\Plugins\SAPI\bin\Debug\SanAndreasAPI.pdb

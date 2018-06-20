@@ -1,0 +1,1333 @@
+[02:05:52] Main/Log: Name: Player => None
+[02:05:52] Main/Log: Name: Player => None
+[02:05:52] Main/Log: Name: Player => None
+[02:05:52] Main/Log: Name: Player => None
+[02:05:52] Main/Log: Name: Player => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: PlayerModel => None
+[02:05:52] Main/Log: Name: unnamed => None
+[02:05:52] Main/Log: Name: unnamed => None
+[02:05:52] Main/Log: Name: Root => None
+[02:05:52] Main/Log: Name: Root => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  R Thigh => None
+[02:05:52] Main/Log: Name:  R Thigh => None
+[02:05:52] Main/Log: Name:  R Calf => None
+[02:05:52] Main/Log: Name:  R Calf => None
+[02:05:52] Main/Log: Name:  R Foot => None
+[02:05:52] Main/Log: Name:  R Foot => None
+[02:05:52] Main/Log: Name:  R Toe0 => None
+[02:05:52] Main/Log: Name:  R Toe0 => None
+[02:05:52] Main/Log: Name:  L Thigh => None
+[02:05:52] Main/Log: Name:  L Thigh => None
+[02:05:52] Main/Log: Name:  L Calf => None
+[02:05:52] Main/Log: Name:  L Calf => None
+[02:05:52] Main/Log: Name:  L Foot => None
+[02:05:52] Main/Log: Name:  L Foot => None
+[02:05:52] Main/Log: Name:  L Toe0 => None
+[02:05:52] Main/Log: Name:  L Toe0 => None
+[02:05:52] Main/Log: Name:  Spine => None
+[02:05:52] Main/Log: Name:  Spine => None
+[02:05:52] Main/Log: Name: Belly => None
+[02:05:52] Main/Log: Name: Belly => None
+[02:05:52] Main/Log: Name:  Spine1 => None
+[02:05:52] Main/Log: Name:  Spine1 => None
+[02:05:52] Main/Log: Name: R breast => None
+[02:05:52] Main/Log: Name: R breast => None
+[02:05:52] Main/Log: Name: L breast => None
+[02:05:52] Main/Log: Name: L breast => None
+[02:05:52] Main/Log: Name:  Neck => None
+[02:05:52] Main/Log: Name:  Neck => None
+[02:05:52] Main/Log: Name: Bip01 R Clavicle => None
+[02:05:52] Main/Log: Name: Bip01 R Clavicle => None
+[02:05:52] Main/Log: Name:  R UpperArm => None
+[02:05:52] Main/Log: Name:  R UpperArm => None
+[02:05:52] Main/Log: Name:  R ForeArm => None
+[02:05:52] Main/Log: Name:  R ForeArm => None
+[02:05:52] Main/Log: Name:  R Hand => None
+[02:05:52] Main/Log: Name:  R Hand => None
+[02:05:52] Main/Log: Name:  R Finger => None
+[02:05:52] Main/Log: Name:  R Finger => None
+[02:05:52] Main/Log: Name: R Finger01 => None
+[02:05:52] Main/Log: Name: R Finger01 => None
+[02:05:52] Main/Log: Name: Bip01 L Clavicle => None
+[02:05:52] Main/Log: Name: Bip01 L Clavicle => None
+[02:05:52] Main/Log: Name:  L UpperArm => None
+[02:05:52] Main/Log: Name:  L UpperArm => None
+[02:05:52] Main/Log: Name:  L ForeArm => None
+[02:05:52] Main/Log: Name:  L ForeArm => None
+[02:05:52] Main/Log: Name:  L Hand => None
+[02:05:52] Main/Log: Name:  L Hand => None
+[02:05:52] Main/Log: Name:  L Finger => None
+[02:05:52] Main/Log: Name:  L Finger => None
+[02:05:52] Main/Log: Name: L Finger01 => None
+[02:05:52] Main/Log: Name: L Finger01 => None
+[02:05:52] Main/Log: Name:  Head => None
+[02:05:52] Main/Log: Name:  Head => None
+[02:05:52] Main/Log: Name: R Brow => None
+[02:05:52] Main/Log: Name: R Brow => None
+[02:05:52] Main/Log: Name: L Brow => None
+[02:05:52] Main/Log: Name: L Brow => None
+[02:05:52] Main/Log: Name: Jaw => None
+[02:05:52] Main/Log: Name: Jaw => None
+[02:05:52] Main/Log: Name: unnamed => None
+[02:05:52] Main/Log: Name: unnamed => None
+[02:05:52] Main/Log: Name: Root => None
+[02:05:52] Main/Log: Name: Root => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  Pelvis => None
+[02:05:52] Main/Log: Name:  R Thigh => None
+[02:05:52] Main/Log: Name:  R Thigh => None
+[02:05:52] Main/Log: Name:  R Calf => None
+[02:05:52] Main/Log: Name:  R Calf => None
+[02:05:52] Main/Log: Name:  R Foot => None
+[02:05:52] Main/Log: Name:  R Foot => None
+[02:05:52] Main/Log: Name:  R Toe0 => None
+[02:05:52] Main/Log: Name:  R Toe0 => None
+[02:05:52] Main/Log: Name:  L Thigh => None
+[02:05:52] Main/Log: Name:  L Thigh => None
+[02:05:52] Main/Log: Name:  L Calf => None
+[02:05:52] Main/Log: Name:  L Calf => None
+[02:05:52] Main/Log: Name:  L Foot => None
+[02:05:52] Main/Log: Name:  L Foot => None
+[02:05:52] Main/Log: Name:  L Toe0 => None
+[02:05:52] Main/Log: Name:  L Toe0 => None
+[02:05:52] Main/Log: Name:  Spine => None
+[02:05:52] Main/Log: Name:  Spine => None
+[02:05:52] Main/Log: Name: Belly => None
+[02:05:52] Main/Log: Name: Belly => None
+[02:05:52] Main/Log: Name:  Spine1 => None
+[02:05:52] Main/Log: Name:  Spine1 => None
+[02:05:52] Main/Log: Name: R breast => None
+[02:05:52] Main/Log: Name: R breast => None
+[02:05:52] Main/Log: Name: L breast => None
+[02:05:52] Main/Log: Name: L breast => None
+[02:05:52] Main/Log: Name:  Neck => None
+[02:05:52] Main/Log: Name:  Neck => None
+[02:05:52] Main/Log: Name: Bip01 R Clavicle => None
+[02:05:52] Main/Log: Name: Bip01 R Clavicle => None
+[02:05:52] Main/Log: Name:  R UpperArm => None
+[02:05:52] Main/Log: Name:  R UpperArm => None
+[02:05:52] Main/Log: Name:  R ForeArm => None
+[02:05:52] Main/Log: Name:  R ForeArm => None
+[02:05:52] Main/Log: Name:  R Hand => None
+[02:05:52] Main/Log: Name:  R Hand => None
+[02:05:52] Main/Log: Name:  R Finger => None
+[02:05:52] Main/Log: Name:  R Finger => None
+[02:05:52] Main/Log: Name: R Finger01 => None
+[02:05:52] Main/Log: Name: R Finger01 => None
+[02:05:52] Main/Log: Name: Bip01 L Clavicle => None
+[02:05:52] Main/Log: Name: Bip01 L Clavicle => None
+[02:05:52] Main/Log: Name:  L UpperArm => None
+[02:05:52] Main/Log: Name:  L UpperArm => None
+[02:05:52] Main/Log: Name:  L ForeArm => None
+[02:05:52] Main/Log: Name:  L ForeArm => None
+[02:05:52] Main/Log: Name:  L Hand => None
+[02:05:52] Main/Log: Name:  L Hand => None
+[02:05:52] Main/Log: Name:  L Finger => None
+[02:05:52] Main/Log: Name:  L Finger => None
+[02:05:52] Main/Log: Name: L Finger01 => None
+[02:05:52] Main/Log: Name: L Finger01 => None
+[02:05:52] Main/Log: Name:  Head => None
+[02:05:52] Main/Log: Name:  Head => None
+[02:05:52] Main/Log: Name: R Brow => None
+[02:05:52] Main/Log: Name: R Brow => None
+[02:05:52] Main/Log: Name: L Brow => None
+[02:05:52] Main/Log: Name: L Brow => None
+[02:05:52] Main/Log: Name: Jaw => None
+[02:05:52] Main/Log: Name: Jaw => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: Name: Camera => None
+[02:05:52] Main/Log: DirectX: 45
+[02:05:52] Main/Log: Max FPS: -1
+[02:05:52] Main/Log: Time set to Midnight! (54000)
+[02:05:52] Main/Log: Started loading GTA.
+[02:05:52] Main/Log: Loading loose archive: D:/JUEGOS/KPS GTA San Andreas
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta3.img
+[02:05:52] Main/Log: New image archive extension: ".dff" for: "bbb_lr_slv1.dff"
+[02:05:52] Main/Log: New image archive extension: ".col" for: "veh_mods.col"
+[02:05:52] Main/Log: New image archive extension: ".txd" for: "bistro.txd"
+[02:05:52] Main/Log: New image archive extension: ".ipl" for: "levelmap_stream0.ipl"
+[02:05:52] Main/Log: New image archive extension: ".ifp" for: "levelxre.ifp"
+[02:05:52] Main/Log: New image archive extension: ".dat" for: "nodes0.dat"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta_int.img
+[02:05:52] Main/Log: New image archive extension: ".dff" for: "ammo_box_c2.dff"
+[02:05:52] Main/Log: New image archive extension: ".txd" for: "barrier.txd"
+[02:05:52] Main/Log: New image archive extension: ".col" for: "proc_int.col"
+[02:05:52] Main/Log: New image archive extension: ".ifp" for: "props2.ifp"
+[02:05:52] Main/Log: New image archive extension: ".ipl" for: "int_la_stream0.ipl"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/player.img
+[02:05:52] Main/Log: New image archive extension: ".dff" for: "afro.dff"
+[02:05:52] Main/Log: New image archive extension: ".txd" for: "10ls.txd"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/anim.img
+[02:05:52] Main/Log: New image archive extension: ".ifp" for: "airport.ifp"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/cuts.img
+[02:05:52] Main/Log: New image archive extension: ".ifp" for: "bcesa4w.ifp"
+[02:05:52] Main/Log: New image archive extension: ".cut" for: "bcesa4w.cut"
+[02:05:52] Main/Log: New image archive extension: ".dat" for: "bcesa4w.dat"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/cutscene.img
+[02:05:52] Main/Log: New image archive extension: ".dff" for: "beer_girla.dff"
+[02:05:52] Main/Log: New image archive extension: ".txd" for: "beer_girla.txd"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/paths/carrec.img
+[02:05:52] Main/Log: New image archive extension: ".rrr" for: "carrec001.rrr"
+[02:05:52] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/script/script.img
+[02:05:52] Main/Log: New image archive extension: ".scm" for: "aaa.scm"
+[02:05:52] Main/Log: Archive load time: 528,59 ms
+[02:05:53] Main/Warning: Error while reading peds.col at 0x1834 (28%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[02:05:53] Main/Warning: Error while reading peds.col at 0x232f (41%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[02:05:53] Main/Log: Known problem (duplicate ct_man2 collision). Skipping...
+[02:05:53] Main/Warning: Error while reading peds.col at 0x4c12 (90%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:53] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[02:05:53] Main/Log: Number of collision files 254
+[02:05:53] Main/Log: Collision load time: 252,01 ms
+[02:05:54] Main/Log: Item info load time: 939,78 ms
+[02:05:54] Main/Log: Handling info load time: 22,24 ms
+[02:05:54] Main/Log: Animation group info load time: 4,79 ms
+[02:05:54] Main/Log: Entries: 199
+[02:05:54] Main/Log: Car color info load time: 12,17 ms
+[02:05:54] Main/Warning: Invalid texture used for cursor - check importer settings
+             Stacktrace: UnityEngine.Cursor:SetCursor(Texture2D, Vector2, CursorMode)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:160)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[02:05:54] Main/Log: special texture load time: 31,52 ms
+[02:05:54] Main/Log: GTA loading finished.
+[02:05:56] Main/Log: Num static geometries 45088.
+[02:05:56] Main/Log: -444
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:56] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: -333
+[02:05:57] Main/Log: Num parked vehicles 1045.
+[02:05:57] Main/Log: Cell partitioning time: 3064,37 ms
+[02:05:57] Main/Log: Loading water file: "D:/JUEGOS/KPS GTA San Andreas/data/water.dat" with 307 faces
+[02:05:57] Main/Log: Water load time: 31,84 ms
+[02:05:57] Main/Log: Noise gen time: 5,39 ms
+[02:05:57] Main/Log: Loading pedestrian model after startup.
+[02:05:57] Main/Exception: ArgumentException: File "vegaswaterfall02.dff" is not a Clump!
+                           Parameter name: name
+
+               Stacktrace: SanAndreasUnity.Importing.Archive.ArchiveManager.ReadFile[TSection] (System.String name) (at Assets/Scripts/Importing/Archive/ArchiveManager.cs:70)
+                           SanAndreasUnity.Importing.Conversion.Geometry.Load (System.String modelName, SanAndreasUnity.Importing.Conversion.TextureDictionary[] txds) (at Assets/Scripts/Importing/Conversion/Geometry.cs:510)
+                           SanAndreasUnity.Importing.Conversion.Geometry.Load (System.String modelName, System.String[] texDictNames) (at Assets/Scripts/Importing/Conversion/Geometry.cs:498)
+                           SanAndreasUnity.Behaviours.World.StaticGeometry.OnLoad () (at Assets/Scripts/Behaviours/World/StaticGeometry.cs:122)
+                           SanAndreasUnity.Behaviours.MapObject.Show () (at Assets/Scripts/Behaviours/MapObject.cs:116)
+                           SanAndreasUnity.Behaviours.World.Division.LoadWhile (System.Func`1[TResult] predicate) (at Assets/Scripts/Behaviours/World/Division.cs:301)
+                           SanAndreasUnity.Behaviours.World.Cell.Update () (at Assets/Scripts/Behaviours/World/Cell.cs:129)
+

@@ -1,0 +1,131 @@
+[03:27:20] Main/Log: Name: Player => None
+[03:27:20] Main/Log: Name: Player => None
+[03:27:20] Main/Log: Name: Player => None
+[03:27:20] Main/Log: Name: Player => None
+[03:27:20] Main/Log: Name: Player => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: PlayerModel => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: Name: Camera => None
+[03:27:20] Main/Log: DirectX: 45
+[03:27:20] Main/Log: Max FPS: -1
+[03:27:20] Main/Log: Time set to Midnight! (54000)
+[03:27:20] Main/Log: Started loading GTA.
+[03:27:20] Main/Log: Loading loose archive: D:/JUEGOS/KPS GTA San Andreas
+[03:27:20] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta3.img
+[03:27:20] Main/Log: New image archive extension: ".dff" for: "bbb_lr_slv1.dff"
+[03:27:20] Main/Log: New image archive extension: ".col" for: "veh_mods.col"
+[03:27:20] Main/Log: New image archive extension: ".txd" for: "bistro.txd"
+[03:27:20] Main/Log: New image archive extension: ".ipl" for: "levelmap_stream0.ipl"
+[03:27:20] Main/Log: New image archive extension: ".ifp" for: "levelxre.ifp"
+[03:27:21] Main/Log: New image archive extension: ".dat" for: "nodes0.dat"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta_int.img
+[03:27:21] Main/Log: New image archive extension: ".dff" for: "ammo_box_c2.dff"
+[03:27:21] Main/Log: New image archive extension: ".txd" for: "barrier.txd"
+[03:27:21] Main/Log: New image archive extension: ".col" for: "proc_int.col"
+[03:27:21] Main/Log: New image archive extension: ".ifp" for: "props2.ifp"
+[03:27:21] Main/Log: New image archive extension: ".ipl" for: "int_la_stream0.ipl"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/player.img
+[03:27:21] Main/Log: New image archive extension: ".dff" for: "afro.dff"
+[03:27:21] Main/Log: New image archive extension: ".txd" for: "10ls.txd"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/anim.img
+[03:27:21] Main/Log: New image archive extension: ".ifp" for: "airport.ifp"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/cuts.img
+[03:27:21] Main/Log: New image archive extension: ".ifp" for: "bcesa4w.ifp"
+[03:27:21] Main/Log: New image archive extension: ".cut" for: "bcesa4w.cut"
+[03:27:21] Main/Log: New image archive extension: ".dat" for: "bcesa4w.dat"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/cutscene.img
+[03:27:21] Main/Log: New image archive extension: ".dff" for: "beer_girla.dff"
+[03:27:21] Main/Log: New image archive extension: ".txd" for: "beer_girla.txd"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/paths/carrec.img
+[03:27:21] Main/Log: New image archive extension: ".rrr" for: "carrec001.rrr"
+[03:27:21] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/script/script.img
+[03:27:21] Main/Log: New image archive extension: ".scm" for: "aaa.scm"
+[03:27:21] Main/Log: Archive load time: 591,64 ms
+[03:27:21] Main/Warning: Error while reading peds.col at 0x1834 (28%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[03:27:21] Main/Warning: Error while reading peds.col at 0x232f (41%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[03:27:21] Main/Log: Known problem (duplicate ct_man2 collision). Skipping...
+[03:27:21] Main/Warning: Error while reading peds.col at 0x4c12 (90%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[03:27:21] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[03:27:21] Main/Log: Number of collision files 254
+[03:27:21] Main/Log: Collision load time: 285,99 ms
+[03:27:43] Main/Log: Item info load time: 21940,21 ms
+[03:27:43] Main/Log: Handling info load time: 23,71 ms
+[03:27:45] Main/Log: Animation group info load time: 4,19 ms
+[03:27:45] Main/Log: Entries: 199
+[03:27:45] Main/Log: Car color info load time: 11,60 ms

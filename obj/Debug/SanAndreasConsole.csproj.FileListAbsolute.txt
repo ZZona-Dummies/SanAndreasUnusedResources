@@ -1,0 +1,10 @@
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SanAndreasConsole.exe.config
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SanAndreasConsole.exe
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SanAndreasConsole.pdb
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasConsole\obj\Debug\SanAndreasConsole.csprojResolveAssemblyReference.cache
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasConsole\obj\Debug\SanAndreasConsole.csproj.CoreCompileInputs.cache
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasConsole\obj\Debug\SanAndreasConsole.exe
+D:\UNITY\Unity Projects\SanAndreasUnity\VS\SanAndreasConsole\obj\Debug\SanAndreasConsole.pdb
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SAConsole\bin\Debug\SanAndreasConsole.exe.config
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SAConsole\bin\Debug\SanAndreasConsole.exe
+D:\UNITY\Unity Projects\SanAndreasUnity\Assets\StreamingAssets\SAConsole\bin\Debug\SanAndreasConsole.pdb

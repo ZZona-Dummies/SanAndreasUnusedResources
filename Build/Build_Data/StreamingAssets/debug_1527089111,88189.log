@@ -1,0 +1,183 @@
+[04:51:46] Main/Log: Name: Player => None
+[04:51:46] Main/Log: Name: Player => None
+[04:51:46] Main/Log: Name: Player => None
+[04:51:46] Main/Log: Name: Player => None
+[04:51:46] Main/Log: Name: Player => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: PlayerModel => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: Name: Camera => None
+[04:51:46] Main/Log: DirectX: 45
+[04:51:46] Main/Log: Max FPS: -1
+[04:51:46] Main/Log: Time set to Midnight! (54000)
+[04:51:46] Main/Log: Started loading GTA.
+[04:51:46] Main/Log: Loading loose archive: D:/JUEGOS/KPS GTA San Andreas
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta3.img
+[04:51:46] Main/Log: New image archive extension: ".dff" for: "bbb_lr_slv1.dff"
+[04:51:46] Main/Log: New image archive extension: ".col" for: "veh_mods.col"
+[04:51:46] Main/Log: New image archive extension: ".txd" for: "bistro.txd"
+[04:51:46] Main/Log: New image archive extension: ".ipl" for: "levelmap_stream0.ipl"
+[04:51:46] Main/Log: New image archive extension: ".ifp" for: "levelxre.ifp"
+[04:51:46] Main/Log: New image archive extension: ".dat" for: "nodes0.dat"
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/gta_int.img
+[04:51:46] Main/Log: New image archive extension: ".dff" for: "ammo_box_c2.dff"
+[04:51:46] Main/Log: New image archive extension: ".txd" for: "barrier.txd"
+[04:51:46] Main/Log: New image archive extension: ".col" for: "proc_int.col"
+[04:51:46] Main/Log: New image archive extension: ".ifp" for: "props2.ifp"
+[04:51:46] Main/Log: New image archive extension: ".ipl" for: "int_la_stream0.ipl"
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/player.img
+[04:51:46] Main/Log: New image archive extension: ".dff" for: "afro.dff"
+[04:51:46] Main/Log: New image archive extension: ".txd" for: "10ls.txd"
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/anim.img
+[04:51:46] Main/Log: New image archive extension: ".ifp" for: "airport.ifp"
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/anim/cuts.img
+[04:51:46] Main/Log: New image archive extension: ".ifp" for: "bcesa4w.ifp"
+[04:51:46] Main/Log: New image archive extension: ".cut" for: "bcesa4w.cut"
+[04:51:46] Main/Log: New image archive extension: ".dat" for: "bcesa4w.dat"
+[04:51:46] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/models/cutscene.img
+[04:51:46] Main/Log: New image archive extension: ".dff" for: "beer_girla.dff"
+[04:51:47] Main/Log: New image archive extension: ".txd" for: "beer_girla.txd"
+[04:51:47] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/paths/carrec.img
+[04:51:47] Main/Log: New image archive extension: ".rrr" for: "carrec001.rrr"
+[04:51:47] Main/Log: Loading image archive: D:/JUEGOS/KPS GTA San Andreas/data/script/script.img
+[04:51:47] Main/Log: New image archive extension: ".scm" for: "aaa.scm"
+[04:51:47] Main/Log: Archive load time: 515,05 ms
+[04:51:47] Main/Warning: Error while reading peds.col at 0x1834 (28%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[04:51:47] Main/Warning: Error while reading peds.col at 0x232f (41%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[04:51:47] Main/Log: Known problem (duplicate ct_man2 collision). Skipping...
+[04:51:47] Main/Warning: Error while reading peds.col at 0x4c12 (90%)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:72)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Warning: Requested value 'OLL?' was not found.
+             Stacktrace: UnityEngine.Debug:LogWarning(Object)
+                         SanAndreasUnity.Importing.Collision.CollisionFile:Load(String) (at Assets/Scripts/Importing/Collision/CollisionFile.cs:74)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:88)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:47] Main/Log: Known problem (size off by one). Attempting to fix by adjusting read pointer...
+[04:51:47] Main/Log: Number of collision files 254
+[04:51:47] Main/Log: Collision load time: 248,78 ms
+[04:51:48] Main/Log: Item info load time: 1018,92 ms
+[04:51:48] Main/Log: Handling info load time: 21,57 ms
+[04:51:48] Main/Log: Animation group info load time: 4,22 ms
+[04:51:48] Main/Log: Entries: 199
+[04:51:48] Main/Log: Car color info load time: 29,61 ms
+[04:51:48] Main/Warning: Invalid texture used for cursor - check importer settings
+             Stacktrace: UnityEngine.Cursor:SetCursor(Texture2D, Vector2, CursorMode)
+                         SanAndreasUnity.Behaviours.Loader:StaticUpdate() (at Assets/Scripts/Behaviours/Loader.cs:160)
+                         SanAndreasUnity.Behaviours.Loader:Update() (at Assets/Scripts/Behaviours/Loader.cs:172)
+
+[04:51:48] Main/Log: special texture load time: 30,76 ms
+[04:51:48] Main/Log: GTA loading finished.
+[04:51:50] Main/Log: Num static geometries 45088.
+[04:51:50] Main/Log: Num parked vehicles 1045.
+[04:51:50] Main/Log: Cell partitioning time: 2446,41 ms
+[04:51:50] Main/Log: Loading water file: "D:/JUEGOS/KPS GTA San Andreas/data/water.dat" with 307 faces
+[04:51:50] Main/Log: Water load time: 30,57 ms
+[04:51:51] Main/Log: Noise gen time: 35,29 ms
+[04:51:51] Main/Log: Loading pedestrian model after startup.
+[04:51:51] Main/Exception: ArgumentException: File "vegaswaterfall02.dff" is not a Clump!
+                           Parameter name: name
+
+               Stacktrace: SanAndreasUnity.Importing.Archive.ArchiveManager.ReadFile[TSection] (System.String name) (at Assets/Scripts/Importing/Archive/ArchiveManager.cs:70)
+                           SanAndreasUnity.Importing.Conversion.Geometry.Load (System.String modelName, SanAndreasUnity.Importing.Conversion.TextureDictionary[] txds) (at Assets/Scripts/Importing/Conversion/Geometry.cs:510)
+                           SanAndreasUnity.Importing.Conversion.Geometry.Load (System.String modelName, System.String[] texDictNames) (at Assets/Scripts/Importing/Conversion/Geometry.cs:498)
+                           SanAndreasUnity.Behaviours.World.StaticGeometry.OnLoad () (at Assets/Scripts/Behaviours/World/StaticGeometry.cs:122)
+                           SanAndreasUnity.Behaviours.MapObject.Show () (at Assets/Scripts/Behaviours/MapObject.cs:116)
+                           SanAndreasUnity.Behaviours.World.Division.LoadWhile (System.Func`1[TResult] predicate) (at Assets/Scripts/Behaviours/World/Division.cs:301)
+                           SanAndreasUnity.Behaviours.World.Cell.Update () (at Assets/Scripts/Behaviours/World/Cell.cs:129)
+
+[04:55:13] Main/Log: -222
+[04:55:13] Main/Log: -111
+[04:55:13] Main/Log: -000
+[04:55:13] Main/Log: -222
+[04:55:13] Main/Log: -111
+[04:55:13] Main/Log: -000
+[04:55:13] Main/Log: -222
+[04:55:13] Main/Log: -111
+[04:55:13] Main/Log: -000
+[04:55:14] Main/Log: -222
+[04:55:14] Main/Log: -111
+[04:55:14] Main/Log: -000
+[04:55:14] Main/Log: -222
+[04:55:14] Main/Log: -111
+[04:55:14] Main/Log: -000
+[04:55:21] Main/Warning: Tried to re-add sm_Agave_1_a (diffuse dead_agave vs sm_Agave_1)
+             Stacktrace: UnityEngine.Debug:LogWarningFormat(String, Object[])
+                         SanAndreasUnity.Importing.Conversion.TextureDictionary:.ctor(TextureDictionary) (at Assets/Scripts/Importing/Conversion/TextureDictionary.cs:319)
+                         SanAndreasUnity.Importing.Conversion.TextureDictionary:Load(String) (at Assets/Scripts/Importing/Conversion/TextureDictionary.cs:229)
+                         SanAndreasUnity.Importing.Conversion.Geometry:<Load>m__6(String) (at Assets/Scripts/Importing/Conversion/Geometry.cs:498)
+                         System.Linq.Enumerable:ToArray(IEnumerable`1)
+                         SanAndreasUnity.Importing.Conversion.Geometry:Load(String, String[]) (at Assets/Scripts/Importing/Conversion/Geometry.cs:498)
+                         SanAndreasUnity.Behaviours.World.StaticGeometry:OnLoad() (at Assets/Scripts/Behaviours/World/StaticGeometry.cs:122)
+                         SanAndreasUnity.Behaviours.MapObject:Show() (at Assets/Scripts/Behaviours/MapObject.cs:116)
+                         SanAndreasUnity.Behaviours.World.Division:LoadWhile(Func`1) (at Assets/Scripts/Behaviours/World/Division.cs:301)
+                         SanAndreasUnity.Behaviours.World.Cell:Update() (at Assets/Scripts/Behaviours/World/Cell.cs:129)
+
